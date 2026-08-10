@@ -146,7 +146,7 @@ AI-powered assistant concept designed to allow users to interact with portfolio 
 
 ## Swire Coca-Cola
 
-### Senior Data Engineer
+### Business Intelligence Analyst
 
 - Built enterprise ETL/ELT pipelines using Azure, Databricks, Snowflake, Python, and SQL
 - Developed operational and financial analytics dashboards using Power BI
